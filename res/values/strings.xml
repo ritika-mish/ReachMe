@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!-- Home Page -->
+    <string name="app_name">ReachMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="searchEditiBoxHint">Type in the contact name</string>
+	<string name="searchButton">Search</string>
+<!--Registeration -->	
+	<string name="RegisterHeading">Register</string>
+	<string name="RegisterPhoneNumber">Enter your phone number</string>
+	<string name="RegisterPassword">Enter your password</string>
+	<string name="RegisterSignUpButton">Register</string>
+
+<!--Login-->	
+	<string name="LoginHeading">Login</string>
+	<string name="LoginPhoneNumber">Enter your phone number</string>
+	<string name="LoginPassword">Enter your password</string>
+	<string name="LoginSignInButton">Login</string>
+	
+</resources>
